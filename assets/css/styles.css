@@ -97,7 +97,7 @@ footer h2 {
 #article-hero h2 {
   font-family: Butler;
   font-weight: normal;
-  font-size: 48px;
+  font-size: 32px;
 }
 
 #article-hero a {
@@ -115,7 +115,7 @@ footer h2 {
 }
 
 #article-body h3 {
-  font-family: 'Butler', sans-serif;
+  /*font-family: 'Butler', sans-serif;*/
   font-weight: 500;
 }
 

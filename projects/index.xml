@@ -6,19 +6,36 @@
     <description>Recent content in Projects on Yinka Adesesan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 02 Apr 2020 16:46:18 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2020 17:38:21 +0200</lastBuildDate>
     
 	<atom:link href="https://yinka.adesesan.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Just another testing post</title>
-      <link>https://yinka.adesesan.com/projects/just-another-testing-post/</link>
-      <pubDate>Thu, 02 Apr 2020 16:46:18 +0200</pubDate>
+      <title>Immigr8: Improving the journey of Migrant workers to Canada using design thinking</title>
+      <link>https://yinka.adesesan.com/projects/immigr8/</link>
+      <pubDate>Wed, 08 Apr 2020 17:38:21 +0200</pubDate>
       
-      <guid>https://yinka.adesesan.com/projects/just-another-testing-post/</guid>
-      <description>This is the content changed content
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id massa sodales, sollicitudin nunc nec, blandit lectus. Donec a porttitor turpis. Morbi luctus eget sem ut ornare. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent consequat a odio nec auctor. Sed commodo sem ut diam rutrum lobortis. In justo tellus, porttitor id tempor elementum, aliquam eu arcu. Duis in fringilla magna.</description>
+      <guid>https://yinka.adesesan.com/projects/immigr8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cupra Vision: A vision of sports driving</title>
+      <link>https://yinka.adesesan.com/projects/cupra-vision/</link>
+      <pubDate>Wed, 08 Apr 2020 17:35:19 +0200</pubDate>
+      
+      <guid>https://yinka.adesesan.com/projects/cupra-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walkable: Designing a walking experience to discover neighbourhoods in Barcelona</title>
+      <link>https://yinka.adesesan.com/projects/walkable/</link>
+      <pubDate>Mon, 06 Apr 2020 17:42:37 +0200</pubDate>
+      
+      <guid>https://yinka.adesesan.com/projects/walkable/</guid>
+      <description></description>
     </item>
     
   </channel>

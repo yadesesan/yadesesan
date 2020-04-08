@@ -6,9 +6,38 @@
     <description>Recent content on Yinka Adesesan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sat, 04 Apr 2020 19:58:11 +0200</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Yinka</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 04 Apr 2020 19:58:11 +0200</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in nisi ex. Donec fermentum vel felis vitae vulputate. Etiam congue, urna sit amet feugiat vehicula, odio mauris dictum justo, sit amet sagittis ipsum metus quis diam. Curabitur varius augue id nibh auctor, quis ullamcorper nunc lacinia. Aenean felis sem, pulvinar et auctor at, consequat et dui. Vivamus enim purus, sagittis sed interdum ut, congue id augue. Aliquam et maximus sapien, vel tincidunt justo.</description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.org/articles/test/</link>
+      <pubDate>Thu, 02 Apr 2020 19:31:39 +0200</pubDate>
+      
+      <guid>http://example.org/articles/test/</guid>
+      <description>lorem ipsum here for the boys</description>
+    </item>
+    
+    <item>
+      <title>Just another testing post</title>
+      <link>http://example.org/projects/just-another-testing-post/</link>
+      <pubDate>Thu, 02 Apr 2020 16:46:18 +0200</pubDate>
+      
+      <guid>http://example.org/projects/just-another-testing-post/</guid>
+      <description>This is the content changed content
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id massa sodales, sollicitudin nunc nec, blandit lectus. Donec a porttitor turpis. Morbi luctus eget sem ut ornare. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent consequat a odio nec auctor. Sed commodo sem ut diam rutrum lobortis. In justo tellus, porttitor id tempor elementum, aliquam eu arcu. Duis in fringilla magna.</description>
+    </item>
     
   </channel>
 </rss>

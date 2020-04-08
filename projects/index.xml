@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Yinka Adesesan</title>
-    <link>http://example.org/projects/</link>
+    <link>https://yinka.adesesan.com/projects/</link>
     <description>Recent content in Projects on Yinka Adesesan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Apr 2020 16:46:18 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yinka.adesesan.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Just another testing post</title>
-      <link>http://example.org/projects/just-another-testing-post/</link>
+      <link>https://yinka.adesesan.com/projects/just-another-testing-post/</link>
       <pubDate>Thu, 02 Apr 2020 16:46:18 +0200</pubDate>
       
-      <guid>http://example.org/projects/just-another-testing-post/</guid>
+      <guid>https://yinka.adesesan.com/projects/just-another-testing-post/</guid>
       <description>This is the content changed content
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus id massa sodales, sollicitudin nunc nec, blandit lectus. Donec a porttitor turpis. Morbi luctus eget sem ut ornare. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent consequat a odio nec auctor. Sed commodo sem ut diam rutrum lobortis. In justo tellus, porttitor id tempor elementum, aliquam eu arcu. Duis in fringilla magna.</description>
     </item>

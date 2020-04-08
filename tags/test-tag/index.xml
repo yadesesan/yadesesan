@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test-tag on Yinka Adesesan</title>
-    <link>http://example.org/tags/test-tag/</link>
+    <link>https://yinka.adesesan.com/tags/test-tag/</link>
     <description>Recent content in test-tag on Yinka Adesesan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Apr 2020 19:31:39 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/tags/test-tag/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yinka.adesesan.com/tags/test-tag/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test</title>
-      <link>http://example.org/articles/test/</link>
+      <link>https://yinka.adesesan.com/articles/test/</link>
       <pubDate>Thu, 02 Apr 2020 19:31:39 +0200</pubDate>
       
-      <guid>http://example.org/articles/test/</guid>
+      <guid>https://yinka.adesesan.com/articles/test/</guid>
       <description>lorem ipsum here for the boys</description>
     </item>
     

@@ -3,57 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://yinka.adesesan.com/about/</loc>
     <lastmod>2020-04-04T19:58:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://yinka.adesesan.com/</loc>
     <lastmod>2020-04-04T19:58:11+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/articles/</loc>
+    <loc>https://yinka.adesesan.com/articles/</loc>
     <lastmod>2020-04-02T19:31:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://yinka.adesesan.com/tags/</loc>
     <lastmod>2020-04-02T19:31:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/articles/test/</loc>
+    <loc>https://yinka.adesesan.com/articles/test/</loc>
     <lastmod>2020-04-02T19:31:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/test-tag/</loc>
+    <loc>https://yinka.adesesan.com/tags/test-tag/</loc>
     <lastmod>2020-04-02T19:31:39+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/design-thinking/</loc>
+    <loc>https://yinka.adesesan.com/tags/design-thinking/</loc>
     <lastmod>2020-04-02T16:46:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/just-another-testing-post/</loc>
+    <loc>https://yinka.adesesan.com/projects/just-another-testing-post/</loc>
     <lastmod>2020-04-02T16:46:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/no-code/</loc>
+    <loc>https://yinka.adesesan.com/tags/no-code/</loc>
     <lastmod>2020-04-02T16:46:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/projects/</loc>
+    <loc>https://yinka.adesesan.com/projects/</loc>
     <lastmod>2020-04-02T16:46:18+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://yinka.adesesan.com/categories/</loc>
   </url>
   
 </urlset>

@@ -1,0 +1,168 @@
+body {
+  font-family: Karla, sans-serif;
+}
+
+#navigation-bar {
+  height: 80px;
+}
+
+#hero {
+  padding: 65px 0;
+  /*background-color: #474747;*/
+}
+
+.main-header {
+  font-family: Butler;
+  font-size: 60px;
+  font-weight: normal;
+  margin-bottom: 40px;
+}
+
+#content {
+  padding: 110px 0;
+  background-color: #001A29;
+  color: white;
+}
+
+.content-col h2 {
+  font-size: 48px;
+  font-family: Butler;
+  margin-bottom: 24px;
+}
+
+.content-col p {
+  font-size: 24px;
+  margin-bottom: 24px;
+}
+
+.push-top {
+  margin-top: 140px;
+}
+
+footer {
+  padding: 100px 0;
+}
+
+.footer-list {
+  margin-bottom: 0;
+}
+
+footer h2 {
+  font-size: 48px;
+  font-family: Butler;
+}
+
+#blog-hero {
+  background-color: #001a29;
+  padding: 75px 0;
+}
+
+#blog-hero h2 {
+  font-family: Butler;
+  font-size: 60px;
+}
+
+#blog-content {
+  padding: 70px 0;
+  min-height: 500px;
+}
+
+#blog-content h3 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.list-title {
+  font-size: 24px;
+}
+
+.list-date {
+  font-size: 18px;
+  color: #757575;
+}
+
+.blog-list {
+  margin-bottom: 12px;
+}
+
+#blog-footer {
+  background-color: #f5f5f5;
+}
+
+#article-hero {
+  background-color: #f6f6f6;
+  padding: 50px 0;
+}
+
+#article-hero h2 {
+  font-family: Butler;
+  font-weight: normal;
+  font-size: 48px;
+}
+
+#article-hero a {
+  border-radius: 50px;
+  background-color: #374159;
+}
+
+#article-body {
+  padding: 70px 0;
+  min-height: 500px;
+}
+
+#article-body p {
+  font-size: 20px;
+}
+
+#article-body h3 {
+  font-family: 'Butler', sans-serif;
+  font-weight: 500;
+}
+
+#article-body img {
+  margin: 30px 0;
+  width: 100%;
+}
+
+@media (min-width:576px) {
+  .container {
+    max-width: 90%;
+  }
+}
+
+@media (min-width:768px) {
+  .container {
+    max-width: 90%;
+  }
+}
+
+@media (min-width:992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width:1200px) {
+  .container {
+    max-width: 1140px;
+  }
+}
+
+@media (max-width: 768px) {
+  .blog-list {
+    border-bottom: solid 1px #f5f5f5;
+  }
+}
+
+@media (max-width: 1200px) {
+  .main-header {
+    font-size: 48px;
+  }
+}
+
+@media (max-width: 300px) {
+  .main-header {
+    font-size: 36px;
+  }
+}
+

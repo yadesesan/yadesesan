@@ -43,22 +43,11 @@
   </url>
   
   <url>
-    <loc>https://yinka.adesesan.com/tags/</loc>
-    <lastmod>2020-04-02T19:31:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yinka.adesesan.com/articles/test/</loc>
-    <lastmod>2020-04-02T19:31:39+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yinka.adesesan.com/tags/test-tag/</loc>
-    <lastmod>2020-04-02T19:31:39+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yinka.adesesan.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://yinka.adesesan.com/tags/</loc>
   </url>
   
 </urlset>

@@ -30,6 +30,11 @@
     </div>
     </div>
 </nav>
+<div class="prog">
+    <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+    </div> 
+</div>
 <section id="article-hero">
     <div class="container">
         <div class="row justify-content-center">
@@ -49,7 +54,31 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-sm-12 col-md-10 col-lg-10 col-xl-9">
-                                
+                <h3 id="summary">Summary</h3>
+<p>CUPRA is an offshoot of the spanish automobile manufacturer. As a relatively new automobile brand, a major objective is to find ways to stand out in the market by finding a niche for themselves. Targeting sport driving aficionados means creating experiences that they are able to connect with. In this project, we created a concept of sports driving using digital and connectivity technology called Cupra Vision.</p>
+<h3 id="challenge">Challenge</h3>
+<p>What does the vision of an individualised CUPRA sports driving experience look like?</p>
+<h3 id="research">Research</h3>
+<p>We started our process by trying to understand the environment in which CUPRA does business in. We explored the automobile industry, the company, their competitors and partners as well as the general context using desk based research to lay a foundation and 13 in-depth interviews with users.</p>
+<h3 id="insights">Insights</h3>
+<p>We synthesized the information gathered during the research phase to create an image of who the target user is as well as key insights that form the basis of identifying opportunities for applying design intervention.</p>
+<p><img src="/assets/img/posts/carlos-user-profile.jpg" alt="User Profile of our Target user"></p>
+<h3 id="design-principles">Design principles</h3>
+<ul>
+<li>Non-intrusive: One of the things that is important to our user is not being distracted by technology when he is &ldquo;in the zone&rdquo;.</li>
+<li>Use existing hardware: This client imposed constraint limits the scope of our concepts to those that do not require radical changes to the hardware already available in current models</li>
+</ul>
+<h3 id="ideation">Ideation</h3>
+<p>We ideated some possible solutions for our persona, Carlos, and used the impact - value matrix to help us decide which ideas to prototype and test with users</p>
+<h3 id="concept-cupra-vision">Concept: Cupra Vision</h3>
+<p>We designed an enhanced navigation interface that lives in the driver&rsquo;s line of sight for performance driving in sports mode.</p>
+<p><img src="/assets/img/posts/cupra-vision-concept.jpg" alt="User Profile of our Target user"></p>
+<h3 id="prototyping-and-testing">Prototyping and Testing</h3>
+<p>We used various techniqes of different fidelities to test our concepts and gain further insight into our final product</p>
+<p><img src="/assets/img/posts/cocreation.jpg" alt="User Profile of our Target user"></p>
+<h3 id="conclusion">Conclusion</h3>
+<p>Something something here</p>
+                
             </div>
         </div>
     </div>
@@ -82,7 +111,17 @@
       window.history.back();
     }
 </script>
-
+<script>
+    
+    window.onscroll = function() {myFunction()};
+    
+    function myFunction() {
+      var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      var scrolled = (winScroll / height) * 100;
+      document.getElementById("myBar").style.width = scrolled + "%";
+    }
+</script>
 
     </body>
 </html>

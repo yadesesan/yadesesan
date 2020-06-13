@@ -46,7 +46,7 @@
         <div class="row justify-content-center">
             <div class="col-sm-12 col-md-10 col-lg-10 col-xl-9">
                 <p>I&rsquo;m a business designer with a background in visual communication, UX design and technology education. I help global organisations capture, create and communicate with clarity using design thinking.</p>
-<p>I&rsquo;m currently spending my days helping fortune 1000 companies design better products at <a href="https://dminc.com/">DMI</a>. In my evenings, I’m finding ways to help Nigerian self-taught designers level up their design skills using initiatives like <a href="https://google.com/">LogoMarch</a>. On weekends, I read hard science fiction and build tech things using no-code tools.</p>
+<p>I&rsquo;m currently looking for opportunities to help fortune 1000 companies deliver better products, services and ventures. In my evenings, I’m finding ways to help Nigerian self-taught designers level up their design skills using initiatives like <a href="https://google.com/">LogoMarch</a>. On weekends, I read hard science fiction and build tech things using no-code tools.</p>
 <p>I have a Master Diploma in Design Management from Instituto Europeo di Design Barcelona. Prior, I founded and ran a small branding and web design agency called <a href="https://google.com/">Creovativ</a> for five years where we delivered tens of high quality projects for small and medium entreprises.</p>
 <p>ON MY MIND — tech entrepreneurship, creativity, personal productivity, no-code movement, science fiction, futurism, design education.</p>
 <p>You can get in touch with me @ yinka at adesesan dot com.</p>
@@ -87,6 +87,17 @@
 <script>
     function goBack() {
       window.history.back();
+    }
+</script>
+<script>
+    
+    window.onscroll = function() {myFunction()};
+    
+    function myFunction() {
+      var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      var scrolled = (winScroll / height) * 100;
+      document.getElementById("myBar").style.width = scrolled + "%";
     }
 </script>
  

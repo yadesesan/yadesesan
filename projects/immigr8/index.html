@@ -30,6 +30,11 @@
     </div>
     </div>
 </nav>
+<div class="prog">
+    <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+    </div> 
+</div>
 <section id="article-hero">
     <div class="container">
         <div class="row justify-content-center">
@@ -56,7 +61,7 @@
     <div class="container">
         <div class="row justify-content-center">
             <div class="col-sm-12 col-md-10 col-lg-10 col-xl-9">
-                <h3 id="executive-summary">Executive Summary</h3>
+                <h3 id="summary">Summary</h3>
 <p>In our globalized world there is increased economic migration to high income countries like Canada. Economic migrants face the problem of finding relevant information without wasting precious time. The concept of a crowdsourced AI platform was proposed as a solution - by providing personalized information based on the user’s unique profile. A multi-sided business model was designed with big picture numbers showing profitability in 3 years.</p>
 <h3 id="challenge">Challenge</h3>
 <p>To explore and identity opportunities for innovation along the Migrant worker&rsquo;s immigration journey, to ideate and evaluate solutions and to create a strategy for the implementation of the tested strategy.</p>
@@ -66,7 +71,7 @@
 <h3 id="discover">Discover:</h3>
 <p><strong>Users</strong>: The following user personas and customer journey were developed after analysing the data acquired from in-depth interviews exploring the journeys of users within the target market and supported by secondary data sources.</p>
 <p><img src="/assets/img/posts/discover-the-user.jpg" alt="The double diamond process"></p>
-<p><strong>Insights</strong>:
+<p><strong>Insights</strong>: 
 <img src="/assets/img/posts/discover-insights.jpg" alt="The double diamond process"></p>
 <h3 id="define-reframing-the-problem">Define: Reframing the problem</h3>
 <p>How might we provide personalized information and support from one source to our users as they go through the Express Entry immigration journey in a time saving and affordable way?</p>
@@ -116,7 +121,17 @@
       window.history.back();
     }
 </script>
-
+<script>
+    
+    window.onscroll = function() {myFunction()};
+    
+    function myFunction() {
+      var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      var scrolled = (winScroll / height) * 100;
+      document.getElementById("myBar").style.width = scrolled + "%";
+    }
+</script>
 
     </body>
 </html>

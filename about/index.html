@@ -23,7 +23,7 @@ if (!doNotTrack) {
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap">
     <link rel="stylesheet" href="/assets/fonts/line-awesome.min.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
-    <link rel="stylesheet" href="/assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://unpkg.com/@bootstrapstudio/bootstrap-better-nav/dist/bootstrap-better-nav.min.css">
 </head><body><nav class="navbar navbar-light navbar-expand-md shadow-sm" id="navigation-bar">
     <div class="container">
@@ -79,44 +79,33 @@ if (!doNotTrack) {
 </section>
 
  
-    <footer id="blog-footer">
+    <footer>
     <div class="container">
         <div class="row align-items-center">
-            <div class="col-sm-12 col-md-6 col-lg-4 col-xl-4">
+            <div class="col-sm-12 col-md-12 col-lg-4 col-xl-4">
                 <h2>Get in touch</h2>
             </div>
-            <div class="col-sm-12 col-md-6 col-lg-8 col-xl-8 text-sm-left text-md-right text-lg-right text-xl-right">
+            <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8">
                 <ul class="list-inline text-uppercase footer-list">
                     <li class="list-inline-item"><a class="text-dark" href="/about">about me</a></li>
                     <li class="list-inline-item">/</li>
-                    <li class="list-inline-item"><a class="text-dark" href="mailto:yinka@adesesan.com">get in touch</a></li>
+                    <li class="list-inline-item"><a class="text-dark" href="mailto:yinka@adesesan.com" target="_blank">get in touch</a></li>
                     <li class="list-inline-item">/</li>
                     <li class="list-inline-item"><a class="text-dark" href="https://linkedin.com/in/yadesesan" target="_blank">linkedin</a></li>
                 </ul>
             </div>
         </div>
     </div>
+    <a id="to-top"></a>
 </footer>
 <script src="/assets/js/jquery.min.js"></script>
 <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
 <script src="https://unpkg.com/@bootstrapstudio/bootstrap-better-nav/dist/bootstrap-better-nav.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+<script src="/assets/js/to-top.js"></script>
 
-<script>
-    function goBack() {
-      window.history.back();
-    }
-</script>
-<script>
-    
-    window.onscroll = function() {myFunction()};
-    
-    function myFunction() {
-      var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
-      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
-      var scrolled = (winScroll / height) * 100;
-      document.getElementById("myBar").style.width = scrolled + "%";
-    }
-</script>
+
+
  
     </body>
 </html>

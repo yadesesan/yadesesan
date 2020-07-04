@@ -23,7 +23,7 @@ if (!doNotTrack) {
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap">
     <link rel="stylesheet" href="/assets/fonts/line-awesome.min.css">
     <link rel="stylesheet" href="/assets/css/styles.css">
-    <link rel="stylesheet" href="/assets/fonts/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://unpkg.com/@bootstrapstudio/bootstrap-better-nav/dist/bootstrap-better-nav.min.css">
 </head><body><nav class="navbar navbar-light navbar-expand-md shadow-sm" id="navigation-bar">
     <div class="container">
@@ -48,6 +48,11 @@ if (!doNotTrack) {
     </div>
     </div>
 </nav>
+<div class="prog">
+    <div class="progress-container">
+        <div class="progress-bar" id="myBar"></div>
+    </div> 
+</div>
 <section id="article-hero">
     <div class="container">
         <div class="row justify-content-center">
@@ -121,11 +126,12 @@ if (!doNotTrack) {
             </div>
         </div>
     </div>
+    <a id="to-top"></a>
 </footer>
 <script src="/assets/js/jquery.min.js"></script>
 <script src="/assets/bootstrap/js/bootstrap.min.js"></script>
 <script src="https://unpkg.com/@bootstrapstudio/bootstrap-better-nav/dist/bootstrap-better-nav.min.js"></script>
-
+<script src="/assets/js/to-top.js"></script>
 <script>
     function goBack() {
       window.history.back();

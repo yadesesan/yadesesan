@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>interaction design on Yinka Adesesan</title>
+    <link>https://yinka.adesesan.com/tags/interaction-design/</link>
+    <description>Recent content in interaction design on Yinka Adesesan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2020 17:42:37 +0200</lastBuildDate>
+    
+	<atom:link href="https://yinka.adesesan.com/tags/interaction-design/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Walkable: Designing a walking experience</title>
+      <link>https://yinka.adesesan.com/projects/walkable/</link>
+      <pubDate>Mon, 06 Apr 2020 17:42:37 +0200</pubDate>
+      
+      <guid>https://yinka.adesesan.com/projects/walkable/</guid>
+      <description>Challenge Design a way to turn a passive commute into an active interaction? How do we provide the walking commuter with opportunities for exploration and adventure?
+My Role Researcher / Ideation / Interaction Design
+Research and Insights The team I was working with carried out in-depth interviews with walking commuters in the Gracia area of Barcelona. The following are some insights that we uncovered.
+ Commuters rarely change their route to work or school for years Only 1 in 5 people have consciously explored their neighbourhoods A walking commuter’s mood changes depending on whether she is going to or coming back from work  Solution We generated some ideas but finally landed on the concept for an app that shows the user events, discounts, new spots, photospots and street art in their neighbourhood.</description>
+    </item>
+    
+  </channel>
+</rss>
